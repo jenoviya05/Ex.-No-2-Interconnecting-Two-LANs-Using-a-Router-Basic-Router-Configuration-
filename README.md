@@ -62,11 +62,15 @@ ________________________________________
 
 ## CONFIGURATION :
 
+## LAN 1
+
 <img width="1917" height="1078" alt="Screenshot 2026-10-27 180131" src="https://github.com/user-attachments/assets/6c187505-2ecc-40d6-8b70-557156ea2d03" />
 
 <img width="1917" height="1078" alt="Screenshot 2026-10-27 180140" src="https://github.com/user-attachments/assets/1de6c055-900d-4201-bf1c-c6eca7e66c95" />
 
 <img width="1908" height="1077" alt="Screenshot 2026-10-27 180148" src="https://github.com/user-attachments/assets/1eef8265-699e-47ef-a6e6-a149b3d21044" />
+
+## LAN 2
 
 <img width="1917" height="1078" alt="Screenshot 2026-10-27 180157" src="https://github.com/user-attachments/assets/cd71018c-32e0-4d03-a92c-842d41283b83" />
 
@@ -74,9 +78,13 @@ ________________________________________
 
 <img width="1913" height="1077" alt="Screenshot 2026-10-27 180246" src="https://github.com/user-attachments/assets/1e7e8b5b-9cbd-4b84-804c-c9b42a33c7d8" />
 
+## SWITCH
+
 <img width="1917" height="1078" alt="Screenshot 2026-10-27 180419" src="https://github.com/user-attachments/assets/be354103-8242-41c2-9661-82f962990347" />
 
 <img width="1917" height="1078" alt="Screenshot 2026-10-27 180429" src="https://github.com/user-attachments/assets/23052230-5368-47e8-9d35-52fdd082d0b3" />
+
+## ROUTER
 
 <img width="1916" height="1078" alt="Screenshot 2026-10-27 180438" src="https://github.com/user-attachments/assets/82e13cd0-9826-4dcb-b3f1-4ce5787553b3" />
 
